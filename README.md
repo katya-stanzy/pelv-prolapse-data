@@ -1,6 +1,7 @@
 # pelv-prolapse-data
 
-## [Report](http://htmlpreview.github.io/?https://github.com/katya-stanzy/pelv-prolapse-data/report1.html)
+## Report
+- report1.html can be displayed by a browser locally if downloaded
 
 ## Other folders and files
 - clean_data
